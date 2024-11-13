@@ -1,5 +1,7 @@
 # Pruebas-UI-API-Mobile-para-Urban-Scooter
 Urban Scooter es una aplicación de renta de Scooter. La aplicación cuenta con versión web desde la cual el usuario puede realizar la renta del Scooter. Así mismo, Urban Scooter cuenta con una aplicación móvil para sus repartidores puedan dar seguimiento a los pedidos y entregas. 
+![Urban Lunch](https://github.com/Andrea-Pozas/Pruebas-UI-API-Mobile-para-Urban-Scooter/blob/main/images/Urban%20Scooter.png)
+
 # Herramientas
 ![Static Badge](https://img.shields.io/badge/Excel-black?style=for-the-badge&logoColor=white&color=%233CB371) ![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Android%20Studio-%20%233DDC84?style=for-the-badge&logo=androidstudio&logoColor=black) ![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/C%C3%B3digos%20HTTP-%2373DC8C?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/ApiDoc-%230055DA?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/DevTools-black?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/postgresql-%20%234169E1?style=for-the-badge&logo=postgresql&logoColor=black)
 # Pruebas para el proceso de renta de un Scooter 
