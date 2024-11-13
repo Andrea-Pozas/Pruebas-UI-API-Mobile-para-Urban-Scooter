@@ -9,9 +9,11 @@ El formulario de pedido pide ingresar al usuario los siguientes datos: nombre, a
 __ Si quieres ver las pruebas da clic aquí__
 ## Lista de comprobación de pantalla estado del pedido 
 La pantalla de estado del pedido permite al usuario llevar un seguimiento del proceso de renta de su scooter.  El proceso de pedido puede mostrar cinco estados diferentes: El Scooter está en el almacén, el repartidor está en camino, el servicio de entrega llego, pedido atrasado y cancelación del pedido.  Se realizaron pruebas de diseño y funcionales para garantizar que el usuario puede realizar un pedido exitosamente. 
-__Si quieres ver la lista de comprobación da clic aquí: __
+:arrow_right: __Si deseas ver la lista de comprobación da clic aquí__ [Lista de comprobación](https://docs.google.com/spreadsheets/d/19LUq18gnv7S-I8U7Kx7O0LzE4Vb2zwVm/edit?gid=925489201#gid=925489201)
 ## Resultados 
 __Validación de datos del formulario de pedido__ Las pruebas realizadas fueron de utilidad parar encontrar fallas en la admisión de datos, los campos apellido, dirección y teléfono tienen problemas con la longitud de caracteres que se pueden ingresar, el usuario puede agregar más caracteres de los establecidos como límites. En el campo fecha de entrega permite que el usuario elija una fecha pasada 
+
+:arrow_right:__Si deseas ver las pruebas validar los datos de ingreso al formulario da clic aquí__ [Validación de datos](https://docs.google.com/spreadsheets/d/19LUq18gnv7S-I8U7Kx7O0LzE4Vb2zwVm/edit?gid=1773528289#gid=1773528289)
 
 __Pantalla estado de pedido__  Las pruebas funcionales sirvieron para detectar 3 problemas de prioridad alta :
 -	 Si el usuario llena el formulario de pedido con datos validos es imposible pedir un Scooter desde la interfaz de Urban Scooter, la página no lo permite. 
