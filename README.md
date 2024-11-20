@@ -35,3 +35,9 @@ Cuando el repartidor acepta un pedido tiene tiempo límite para entregar el scoo
 La aplicación movil fue probada sin acceso a internet. Cuando el dispositivo no cuenta con internet al presionar cada uno de los botones de las diferentes patallas de la aplicación aparece una ventana emergente "sin acceso a internet". Se hicieron casos de prueba para cada una de las pantallas y sus botones: pantalla inicio de sesión, pantalla todos los pedidos, pantalla mis pedidos.
 
 :arrow_right: __Si deseas ver los casos prueba da clic aquí__ [Casos de prueba notificación y sin acceso a internet](https://docs.google.com/spreadsheets/d/19LUq18gnv7S-I8U7Kx7O0LzE4Vb2zwVm/edit?gid=209788220#gid=209788220) 
+
+## Resultados 
+Al realizarse los casos de prueba se detectaron 10 errores cada uno fue documentado en JIRA con su reporte de error correspondiente.Solo uno de los errores fue de prioridad alta: 
+- La notificación de límite de tiempo de entrega del scooter para el repartidornunca aparece, se probaron distintas clases dentro del rango y valores límites dentro del horario (9:59pm-12:00am) establecido para corroborar que la notificación no aparece.
+
+
