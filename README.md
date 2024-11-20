@@ -1,6 +1,6 @@
 # Pruebas-UI-API-Mobile-para-Urban-Scooter
 Urban Scooter es una aplicación de renta de Scooter. La aplicación cuenta con versión web desde la cual el usuario puede realizar la renta del Scooter. Así mismo, Urban Scooter cuenta con una aplicación móvil para sus repartidores puedan dar seguimiento a los pedidos y entregas. 
-![Urban Lunch](https://github.com/Andrea-Pozas/Pruebas-UI-API-Mobile-para-Urban-Scooter/blob/main/images/Urban%20Scooter.png)
+![Urban Scooter](https://github.com/Andrea-Pozas/Pruebas-UI-API-Mobile-para-Urban-Scooter/blob/main/images/Urban%20Scooter.png)
 
 # Herramientas
 ![Static Badge](https://img.shields.io/badge/Excel-black?style=for-the-badge&logoColor=white&color=%233CB371) ![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Android%20Studio-%20%233DDC84?style=for-the-badge&logo=androidstudio&logoColor=black) ![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/C%C3%B3digos%20HTTP-%2373DC8C?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/ApiDoc-%230055DA?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/DevTools-black?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/postgresql-%20%234169E1?style=for-the-badge&logo=postgresql&logoColor=black)
@@ -24,5 +24,12 @@ __Pantalla estado de pedido__  Las pruebas funcionales sirvieron para detectar 3
 El usuario aún no debería interactuar con Urban Scooter, la aplicación web no está lista para llevar exitosamente el proceso de renta de un scooter. El usuario estaría inconforme al darse cuenta de que no puede alquilar un scooter, visualizar el estado de su pedido ni cancelar su pedido si así lo desea.
  # Pruebas móvil para Urban Scooter 
 Urban Scooter cuenta con una aplicación móvil para sus repartidores de scooter. La aplicación permite que el repartidor pueda crear una cuenta y seleccionar de una lista de pedidos del usuario los que desea entregar. Si un repartidor acepta un pedido la aplicación móvil llevará el seguimiento de entrega y notificará al repartidor el tiempo restante para cumplir con la tarea. 
+
+![Urban Scooter mobile](https://github.com/Andrea-Pozas/Pruebas-UI-API-Mobile-para-Urban-Scooter/blob/main/images/Urban%20scooter%20mobile.png)
+
 ## Casos de prueba para la notificación 
 Cuando el repartidor acepta un pedido tiene tiempo límite para entregar el scooter.  Cuando quedan 2 horas para la finalización del tiempo aparece una notificación. Los casos prueba fueron creados y ejecutados para garantizar que la notificación aparece correctamente al repartidor tomando en cuenta el límite de entrega. 
+## Casos de prueba para sin acceso a internet
+La aplicación movil fue probada sin acceso a internet. Cuando el dispositivo no cuenta con internet al presionar cada uno de los botones de las diferentes patallas de la aplicación aparece una ventana emergente "sin acceso a internet". Se hicieron casos de prueba para cada una de las pantallas y sus botones: pantalla inicio de sesión, pantalla todos los pedidos, pantalla mis pedidos.
+
+:arrow_right: __Si deseas ver los casos prueba da clic aquí__ [Casos de prueba notificación y sin acceso a internet](https://docs.google.com/spreadsheets/d/19LUq18gnv7S-I8U7Kx7O0LzE4Vb2zwVm/edit?gid=209788220#gid=209788220) 
