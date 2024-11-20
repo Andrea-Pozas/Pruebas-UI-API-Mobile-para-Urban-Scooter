@@ -25,7 +25,9 @@ El usuario aún no debería interactuar con Urban Scooter, la aplicación web no
  # Pruebas móvil para Urban Scooter 
 Urban Scooter cuenta con una aplicación móvil para sus repartidores de scooter. La aplicación permite que el repartidor pueda crear una cuenta y seleccionar de una lista de pedidos del usuario los que desea entregar. Si un repartidor acepta un pedido la aplicación móvil llevará el seguimiento de entrega y notificará al repartidor el tiempo restante para cumplir con la tarea. 
 
-![Urban Scooter mobile](https://github.com/Andrea-Pozas/Pruebas-UI-API-Mobile-para-Urban-Scooter/blob/main/images/Urban%20scooter%20mobile.png)
+<p align="center">
+ <img src="https://github.com/Andrea-Pozas/Pruebas-UI-API-Mobile-para-Urban-Scooter/blob/main/images/Urban%20scooter%20mobile.png" alt="Urban Scooter Mobile">
+<p>
 
 ## Casos de prueba para la notificación 
 Cuando el repartidor acepta un pedido tiene tiempo límite para entregar el scooter.  Cuando quedan 2 horas para la finalización del tiempo aparece una notificación. Los casos prueba fueron creados y ejecutados para garantizar que la notificación aparece correctamente al repartidor tomando en cuenta el límite de entrega. 
